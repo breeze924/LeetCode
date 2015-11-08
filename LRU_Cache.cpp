@@ -1,11 +1,10 @@
-class LRUCache{
+class LRUCache {
 public:
     struct node {
         int key;
         int value;
         
-        node(int key_,int value_): key(key_),value(value_) {
-            
+        node(int key_,int value_): key(key_),value(value_) {   
         }
     };
     
