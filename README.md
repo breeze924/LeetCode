@@ -1,2 +1,2 @@
 # LeetCode
-C++ solutions of LeetCode problems
+C++ solutions of LeetCode Online Judge (https://leetcode.com/) problems
